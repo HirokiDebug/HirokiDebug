@@ -26,6 +26,14 @@
  
 <table>
 <tr>
+  <td align="center">
+   <a href="https://github.com/1-Rasky-1">
+     <img src="https://avatars.githubusercontent.com/u/108844047" width="100px;" alt="Rasky"/>
+   </a>
+   <br />
+   <a href="https://github.com/1-Rasky-1">Rasky</a> 
+ </td> 
+  
    <td align="center">
    <a href="https://github.com/xNotTozic">
      <img src="https://avatars.githubusercontent.com/u/70832788" width="100px;" alt="xNotTozic"/>
