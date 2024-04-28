@@ -26,9 +26,17 @@
  
 <table>
 <tr>
+   <td align="center">
+   <a href="https://github.com/xNotTozic">
+     <img src="https://avatars.githubusercontent.com/u/70832788" width="100px;" alt="xNotTozic"/>
+   </a>
+   <br />
+   <a href="https://github.com/xNotTozic">xNotTozic</a> 
+ </td> 
+  
  <td align="center">
    <a href="https://github.com/DasukuXD343">
-     <img src="https://avatars.githubusercontent.com/u/133373697" width="100px;" alt="Lovelylavender4"/>
+     <img src="https://avatars.githubusercontent.com/u/133373697" width="100px;" alt="Dasuku"/>
    </a>
    <br />
    <a href="https://github.com/DasukuXD343">Dasuku</a> 
