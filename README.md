@@ -6,6 +6,7 @@
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirokiDebug&theme=dracula&layout=compact&show_icons=true" />
+  
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=HirokiDebug&theme=dracula&show_icons=ture" />
 </p>
 
