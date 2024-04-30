@@ -50,6 +50,15 @@
    <a href="https://github.com/DasukuXD343">Dasuku</a> 
  </td> 
 </tr>  
+
+ <td align="center">
+   <a href="https://github.com/auau342">
+     <img src="https://avatars.githubusercontent.com/u/141639397" width="100px;" alt="lala"/>
+   </a>
+   <br />
+   <a href="https://github.com/auau342">lala</a> 
+ </td> 
+</tr>  
 </table>
 
  
